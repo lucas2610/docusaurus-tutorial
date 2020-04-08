@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Test Site Blog</title>
+        <title>Site de Exemplo Blog</title>
         <link>https://lucas2610.github.io/docusaurus-tutorial/blog</link>
-        <description>The best place to stay up-to-date with the latest Test Site news and events.</description>
+        <description>The best place to stay up-to-date with the latest Site de Exemplo news and events.</description>
         <lastBuildDate>Tue, 07 Apr 2020 06:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
-            <title>Test Site Blog</title>
+            <title>Site de Exemplo Blog</title>
             <url>https://lucas2610.github.io/docusaurus-tutorial/undefined</url>
             <link>https://lucas2610.github.io/docusaurus-tutorial/blog</link>
         </image>
